@@ -3,9 +3,9 @@
 This script is designed for basic Intrusion Detection/Prevention operations. 
 You can define custom rules and packets to generate meaningful alerts and simulate network monitoring behavior.
 
-==============================================================================
-                                    How to Use
-==============================================================================
+=============================================
+                How to Use
+=============================================
 
 ✅ Define Rules
 
